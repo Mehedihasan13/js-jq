@@ -1,0 +1,23 @@
+.container{
+  width: 90%;
+  margin: 0 auto;
+  text-align: center;
+}
+button,.button2{
+  background: black;
+  color: #fff;
+  width: 500px;
+  padding: 20px;
+  font-size: 30px;
+  border: none;
+  margin-bottom: 10px;
+}
+p{
+  background: black;
+  color: #fff;
+  width: 500px;
+  margin: 0 auto;
+  padding: 20px;
+  overflow: hidden;
+  line-height: 26px;
+}
